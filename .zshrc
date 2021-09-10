@@ -5,8 +5,9 @@ export TZ='Asia/Tokyo'
 
 # history
 HISTFILE=$HOME/.zsh_history
-HISTSIZE=100000
-SAVEHIST=1000000
+HISTSIZE=50000
+SAVEHIST=50000
+HISTORY_IGNORE='(ls|pwd|exit)'
 
 
 # alias
