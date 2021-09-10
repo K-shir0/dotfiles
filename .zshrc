@@ -10,7 +10,12 @@ SAVEHIST=50000
 HISTORY_IGNORE='(ls|pwd|exit)'
 
 
-# alias
+# Aliases
+## ls
+alias ll='ls -al'
+## grep
+alias grep='grep --color=auto'
+## vim
 alias vim='nvim'
 
 
