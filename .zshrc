@@ -25,6 +25,9 @@ alias grep='grep --color=auto'
 ## vim
 alias vi='vim'
 alias vim='nvim'
+# fvm
+alias f='fvm flutter'
+alias d='fvm dart'
 
 
 # peco
